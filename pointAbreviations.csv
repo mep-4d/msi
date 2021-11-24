@@ -1,0 +1,6 @@
+Abreviated Descriptor,Abreviation,Example
+Temperature,Tmp,FlowTmp
+Pressure,Prs,DifferentialPrs
+Space,Spc,SpcTemperature
+Differential,Dif,DifPressure
+Static,Stc,StcPressure
