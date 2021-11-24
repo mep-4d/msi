@@ -1,4 +1,6 @@
 Abreviated Descriptor,Abreviation,Example
+Air Handling Unit,AHU,AHU01
+Pump,Pmp,ReturnPmp
 Temperature,Tmp,FlowTmp
 Pressure,Prs,DifferentialPrs
 Space,Spc,SpcTemperature
