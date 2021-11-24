@@ -1,4 +1,0 @@
-Hello this is a txt file
-This is the second line of my text file
-This is the third line of my text file
-blah blah
